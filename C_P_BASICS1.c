@@ -1,6 +1,9 @@
-//aptitude questions practice in C
+/*
+VARAD PARCHURE
+IT
+*/
 
-/*swap two numbers
+swap two numbers
 
 
 #include<stdio.h>
@@ -24,7 +27,6 @@ void main()
 	
 }
 
-*/
 
 
 
